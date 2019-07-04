@@ -18,6 +18,7 @@ let favWebsite = [
 ];
 favWebsite.push("facebook");
 favWebsite.push("Google");
+favWebsite.push("bing");
 /*favWebsite.pop();
 favWebsite.shift();
 favWebsite.unshift(`w3Schools`)*/
